@@ -10,3 +10,7 @@
 - Библиотека pytest
 
 ***
+
+1. Склонируйте репозиторий на вашу локальную машину:
+
+git clone https://github.com/your-username/api-test-project.git
