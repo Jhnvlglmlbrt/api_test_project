@@ -21,12 +21,15 @@
 
 3. Склонируйте репозиторий на вашу локальную машину:
 
-git clone https://github.com/your-username/api-test-project.git
+   ```bash
+   git clone https://github.com/your-username/api-test-project.git
 
 4. Перейдите в директорию проекта: 
 
-cd api-test-project
+   ```bash
+   cd api-test-project
 
 5. Запустите автотесты с помощью команды:
 
-pytest tests/
+   ```bash
+   pytest tests/
