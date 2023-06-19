@@ -29,13 +29,19 @@
    ```bash
    cd test-api-project
    
-5. Установите зависимости из файла requirements.txt:
+5. Создайте и активируйте venv:
+
+   ```bash
+   python -m venv venv
+   source venv/Scripts/activate
+
+6. Установите зависимости из файла requirements.txt:
 
    ```bash
    python -m pip install --upgrade pip
    pip install -r requirements.txt
 
-6. Запустите автотесты с помощью команды:
+7. Запустите автотесты с помощью команды:
 
    ```bash
    pytest tests/
