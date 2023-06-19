@@ -28,8 +28,14 @@
 
    ```bash
    cd test-api-project
+   
+5. Установите зависимости из файла requirements.txt:
 
-5. Запустите автотесты с помощью команды:
+   ```bash
+   python -m pip install --upgrade pip
+   pip install -r requirements.txt
+
+6. Запустите автотесты с помощью команды:
 
    ```bash
    pytest tests/
