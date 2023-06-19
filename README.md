@@ -22,7 +22,7 @@
 3. Склонируйте репозиторий на вашу локальную машину:
 
    ```bash
-   git clone https://github.com/your-username/api-test-project.git
+   git clone https://github.com/your-username/test-api-project.git
 
 4. Перейдите в директорию проекта: 
 
