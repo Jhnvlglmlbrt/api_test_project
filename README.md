@@ -57,12 +57,12 @@
 
    cd test-api-project
 
-Собрать образ проекта:
+2. Собрать образ проекта:
 
    ```bash
    docker build -t test-api .
 
-Запустить контейнер:
+3. Запустить контейнер:
 
    ```bash
    docker run -it --rm test-api
