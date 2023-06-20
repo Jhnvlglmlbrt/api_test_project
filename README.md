@@ -53,7 +53,7 @@
 1. Клонируйте репозиторий и перейдите к нему в командной строке:
 
    ```bash
-  git clone https://github.com/Jhnvlglmlbrt/test_api_project
+   git clone https://github.com/Jhnvlglmlbrt/test_api_project
 
    cd test-api-project
 
