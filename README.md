@@ -22,7 +22,7 @@
 3. Склонируйте репозиторий на вашу локальную машину:
 
    ```bash
-   git clone https://github.com/Jhnvlglmlbrt/test_api-project.git
+   git clone https://github.com/Jhnvlglmlbrt/test_api_project
 
 4. Перейдите в директорию проекта: 
 
@@ -53,7 +53,7 @@
 1. Клонируйте репозиторий и перейдите к нему в командной строке:
 
    ```bash
-   git clone https://github.com/Jhnvlglmlbrt/test_api-project.git
+  git clone https://github.com/Jhnvlglmlbrt/test_api_project
 
    cd test-api-project
 
