@@ -22,7 +22,7 @@
 3. Склонируйте репозиторий на вашу локальную машину:
 
    ```bash
-   git clone https://github.com/your-username/test-api-project.git
+  git clone git@github.com:Jhnvlglmlbrt/test_api-project.git
 
 4. Перейдите в директорию проекта: 
 
@@ -45,3 +45,24 @@
 
    ```bash
    pytest 
+
+***
+
+Для запуска теста в контейнере:
+
+1. Клонируйте репозиторий и перейдите к нему в командной строке:
+
+   ```bash
+   git clone git@github.com:Jhnvlglmlbrt/test_api-project.git
+
+   cd test-api-project
+
+Собрать образ проекта:
+
+   ```bash
+   docker build -t test-api .
+
+Запустить контейнер:
+
+   ```bash
+   docker run -it --rm test-api
